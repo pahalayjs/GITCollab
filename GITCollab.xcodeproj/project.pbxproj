@@ -11,6 +11,7 @@
 		0612558B2A2062FE006174A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0612558A2A2062FE006174A6 /* ContentView.swift */; };
 		0612558D2A2062FE006174A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0612558C2A2062FE006174A6 /* Assets.xcassets */; };
 		061255902A2062FE006174A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0612558F2A2062FE006174A6 /* Preview Assets.xcassets */; };
+		23DCDABC2A2065AC00343CD4 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23DCDABB2A2065AC00343CD4 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0612558A2A2062FE006174A6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0612558C2A2062FE006174A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0612558F2A2062FE006174A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		23DCDABB2A2065AC00343CD4 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				061255882A2062FE006174A6 /* GITCollabApp.swift */,
 				0612558A2A2062FE006174A6 /* ContentView.swift */,
+				23DCDABB2A2065AC00343CD4 /* DetailView.swift */,
 				0612558C2A2062FE006174A6 /* Assets.xcassets */,
 				0612558E2A2062FE006174A6 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0612558B2A2062FE006174A6 /* ContentView.swift in Sources */,
+				23DCDABC2A2065AC00343CD4 /* DetailView.swift in Sources */,
 				061255892A2062FE006174A6 /* GITCollabApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
